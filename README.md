@@ -1,9 +1,7 @@
 # Bi-Slice
 Bi-Slice - Intelligent Fiber-Reinforced Composite 3D Printing Slicer; Bi-Modal Stress Based Fiber Oriantation
 
-
-<img width="2067" height="796" alt="image" src="https://github.com/user-attachments/assets/e2cb353b-8dd1-4ef8-bd4f-5d5e90667b6a" />
-
+<img width="1049" height="441" alt="image" src="https://github.com/user-attachments/assets/ca9b72a7-7bd0-446b-8bf8-e3e26a38b1ee" />
 
 Bi-Slice is a Windows desktop application that converts 3D STL models into G‑code using a 6‑step workflow:
 
